@@ -47,8 +47,8 @@
     }
   },
   "logo": {
-    "light": "/logo/Group216.png",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/lightpng.png",
+    "dark": "/logo/darkpng.png"
   },
   "navbar": {
     "links": [
