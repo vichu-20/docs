@@ -47,8 +47,8 @@
     }
   },
   "logo": {
-    "light": "/logo/lightpng.png",
-    "dark": "/logo/darkpng.png"
+    "light": "/logo/darkpng.png",
+    "dark": "/logo/lightpng.png"
   },
   "navbar": {
     "links": [
