@@ -56,13 +56,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:jishnu@ziovy.com"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://calendly.com/jishnu-ziovy/get-started-today?month=2025-09"
     }
   },
   "contextual": {
@@ -80,7 +80,8 @@
   "footer": {
     "socials": {
       "x": "https://x.com/Ziovy_AI",
-      "linkedin": "https://linkedin.com/company/ZioVy"
+      "linkedin": "https://linkedin.com/company/ZioVy",
+       "instagram": "https://instagram.com/ziovy_ai"
     }
   }
 }
