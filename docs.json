@@ -31,18 +31,18 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Home",
+          "href": "https://ziovy.com/",
+          "icon": "House"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "Partnership",
+          "href": "https://mintlify.com/Partners",
+          "icon": "Partner"
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://ziovy.com/blog",
           "icon": "newspaper"
         }
       ]
