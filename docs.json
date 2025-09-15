@@ -17,8 +17,7 @@
             "group": "Welcome to ZioVy",
             "pages": [
               "index",
-              "quickstart",
-              "campaign",
+              "Campaign",
               "redeem",
               "refer"
             ]
